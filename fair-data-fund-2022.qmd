@@ -1,0 +1,25 @@
+---
+title: "FAIR Data Fund 2022 before and after"
+author: "Aleksandra Wilczynska"
+---
+
+## FAIR DATA Fund 2022 
+
+## Datasets published 
+
+- [A high spatial resolution Extended Spring Indices database over American and European regions](https://data.4tu.nl/datasets/aca56a60-8fcc-45b5-b817-50b68d4b5c63)
+- [Campus of the Future Project FAIR Datasets](https://data.4tu.nl/datasets/17c8452a-a937-46a5-9693-f8212655779f)
+- [Minimalistic MAPbX3 database for force field training](https://data.4tu.nl/articles/dataset/Minimalistic_MAPbX3_database_for_force_field_training/14710323)
+
+
+
+```{r}
+#| label: setup
+
+token <- Sys.getenv("DATA4TU")
+
+
+
+```
+
+
